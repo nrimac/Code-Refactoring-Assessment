@@ -1,4 +1,5 @@
 # The function takes three parameters: price (float), discount_percent (float), and user_type (string) with either a value of "regular", "premium", or "vip".
+# Example input: price=100.0, discount_percent=10.0, user_type="premium"
 
 def calculate_discount(price, discount_percent, user_type):
     if user_type == "premium":
