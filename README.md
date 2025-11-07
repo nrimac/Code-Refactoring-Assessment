@@ -18,4 +18,4 @@ This repository is made as a qualitative assessment of human refactoring skills 
 
 7. No external libraries can be imported or used
 
-8. All of the .py file can be submitted for review by email to niko.rimac@fer.hr
+8. Submit a zip folder of all the files for review at niko.rimac@fer.hr (do not send plain .py files, the email reader automatically blocks all executable script files)
