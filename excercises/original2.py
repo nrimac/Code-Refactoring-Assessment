@@ -1,5 +1,5 @@
 # The function takes a list of dictionaries containing user information
-# Example input: [{'name': Alice, 'age': 32, 'email': alice@example.com, 'score': 85}]
+# Example input: [{'name': "Alice", 'age': 32, 'email': "alice@example.com", 'score': 85}]
 
 def process_user_data(data):
     result = []
